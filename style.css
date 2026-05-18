@@ -17,6 +17,10 @@ header{
     padding:20px 50px;
 }
 
+#foto-logo{
+    width: 120px;
+}
+
 .logo{
     color:#fff;
 }
@@ -29,6 +33,10 @@ header{
 .logo p{
     letter-spacing:4px;
     font-size:12px;
+}
+
+#foto-inicio{
+    width: 600px;
 }
 
 .buttons-header{
