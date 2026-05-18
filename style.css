@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    background:#4B0B12;
+    background:#2B0505;
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -46,7 +46,7 @@ header{
 
 .btn-light{
     background:#E6D2B5;
-    color:#4B0B12;
+    color:#2B0505;
     border:none;
     padding:15px 30px;
     font-size:16px;
@@ -56,7 +56,7 @@ header{
 }
 
 .btn-dark{
-    background:#6B0F1A;
+    background:#2B0505;
     color:#fff;
     border:1px solid #E6D2B5;
     padding:15px 30px;
@@ -67,7 +67,7 @@ header{
 }
 
 .hero{
-    background:#4B0B12;
+    background:#2B0505;
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -121,7 +121,7 @@ header{
 .areas h2{
     font-size:50px;
     margin-bottom:50px;
-    color:#4B0B12;
+    color:#2B0505;
     font-family:'Playfair Display', serif;
 }
 
@@ -141,7 +141,7 @@ header{
 }
 
 .card h3{
-    color:#4B0B12;
+    color:#2B0505;
     font-size:42px;
     margin-bottom:25px;
     font-family:'Playfair Display', serif;
